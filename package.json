@@ -1,0 +1,22 @@
+{
+  "name": "redux-auth-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alimertcakar/redux-auth-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alimertcakar/redux-auth-playground/issues"
+  },
+  "homepage": "https://github.com/alimertcakar/redux-auth-playground#readme",
+  "dependencies": {
+    "create-react-app": "^4.0.2"
+  }
+}
